@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>145247638596-q9kgt7ciatin66a8l8fa06jp067nor0f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.145247638596-q9kgt7ciatin66a8l8fa06jp067nor0f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMkEtxp5Yw-aqvsqH5Me22NNDwZwBKIzY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>145247638596</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.neosoft.SwiftUIDemo1</string>
+	<key>PROJECT_ID</key>
+	<string>demotest-eb0e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>demotest-eb0e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:145247638596:ios:f5de639ef7b7b4c702d811</string>
+	<key>DATABASE_URL</key>
+	<string>https://demotest-eb0e9.firebaseio.com</string>
+</dict>
+</plist>
